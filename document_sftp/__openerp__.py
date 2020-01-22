@@ -15,8 +15,8 @@
         "demo/res_users.xml",
     ],
     "data": [
-        "demo/res_users.xml",
-        "views/res_users.xml",
+        # "demo/res_users.xml",
+        # "views/res_users.xml",
         "data/ir_config_parameter.xml",
     ],
     "post_init_hook": 'post_init_hook',
